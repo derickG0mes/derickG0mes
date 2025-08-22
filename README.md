@@ -2,7 +2,7 @@
 
 Tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNIP, possuo uma vontade crescente pela área de Desenvolvimento Web. Estou em busca de oportunidades para aplicar meus conhecimentos e contribuir para projetos inovadores e desafiadores.
 
-Estou comprometido com o aprendizado contínuo e sempre buscar me atualizar nas últimas tendências do setor. Meu objetivo é trabalhar em um ambiente onde eu possa crescer profissionalmente e fazer a diferença, contribuindo para soluções inovadoras.
+Atualmente, possuo habilidades em HTML5, CSS3 e Python, além de um entendimento básico de Git e GitHub. Também tenho familiaridade com Cloud Computing na AWS e sou proficiente no Pacote Office, com facilidade de aprendizagem e de se adaptar as novas situações e desafios.
 
 Se você está em busca de um estagiário motivado e disposto a aprender, estou aberto a novas conexões e oportunidades!
 
