@@ -1,16 +1,23 @@
-## Hi there 👋
+## Olá, sou o Derick!
 
-<!--
-**derickG0mes/derickG0mes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNIP, possuo uma vontade crescente pela área de Desenvolvimento Web. Estou em busca de oportunidades para aplicar meus conhecimentos e contribuir para projetos inovadores e desafiadores.
 
-Here are some ideas to get you started:
+Estou comprometido com o aprendizado contínuo e sempre buscar me atualizar nas últimas tendências do setor. Meu objetivo é trabalhar em um ambiente onde eu possa crescer profissionalmente e fazer a diferença, contribuindo para soluções inovadoras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Se você está em busca de um estagiário motivado e disposto a aprender, estou aberto a novas conexões e oportunidades!
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derickG0mes&layout=compact&langs_count=16&theme=maroongold"/>
+</div>
+
+<div style="display: inline-block"><br>
+  <img align="center" alt="Derick-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="Derick-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Derick-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+</div>
+
+##
+
+<div style="display: inline-block">
+  <a href="https://www.linkedin.com/in/derick-enzo-gomes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
