@@ -6,10 +6,6 @@ Atualmente, possuo habilidades em HTML5, CSS3 e Python, além de um entendimento
 
 Se você está em busca de um estagiário motivado e disposto a aprender, estou aberto a novas conexões e oportunidades!
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derickG0mes&layout=compact&langs_count=16&theme=maroongold"/>
-</div>
-
 <div style="display: inline-block"><br>
   <img align="center" alt="Derick-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="Derick-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
